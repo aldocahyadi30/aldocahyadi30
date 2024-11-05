@@ -25,7 +25,7 @@ I'm a Software Engineer passionate about web and mobile app development. I speci
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## ⚡Stat
-[![GitHub Streak](https://streak-stats.demolab.com?user=aldocahyadi30&theme=dracula&hide_border=true&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aldocahyadi30&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 
 
